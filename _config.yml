@@ -1,0 +1,13 @@
+# Site settings
+title: Infobad
+email: crivellino@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Informazioni per il gruppo badminton di Breganzona.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://infobad.github.io" # the base hostname & protocol for your site
+twitter_username: capradellenevi
+github_username:  infobad
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
