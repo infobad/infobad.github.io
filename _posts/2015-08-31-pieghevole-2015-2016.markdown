@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Pieghevole 2015/2016"
+date:   2015-08-31 19:04:00
+categories: blog update
+---
+Il pieghevole distribuito dalla SGB è disponibile [qui in formato PDF]({{ site.url }}/assets/sgb_pieghevole_2015_2016.pdf) per il download.
