@@ -1,0 +1,7 @@
+﻿---
+layout: post
+title:  "Cena di fine stagione 2015/2016"
+date:   2016-06-13 21:43:00
+categories: blog update
+---
+La cena di fine stagione ha luogo mercoledì 22 giuno 2016 presso il ristorante ABC di Massagno. Il ritrovo è fissato alle ore 19:15 direttamente in loco. Parcheggi sono disponibili lungo la strada principale antistante il ristorante.
