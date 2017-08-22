@@ -202,3 +202,25 @@ pre {
         }
     }
 }
+
+/**
+ * Tables
+ */
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    // border-bottom: 1px solid #ddd;
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+td {
+    // height: 80px;
+    vertical-align: top;
+}

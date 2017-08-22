@@ -66,43 +66,19 @@ A & B giocano in doppio contro C & D. A & B hanno vinto il lancio in aria del vo
 |-----------------------------------+------------+-------------+------------+------------|
 | Svolgimento dell'azione           | Punteggio  | Lato serv.  | Servizio   | Vincitore  |
 |:----------------------------------|:-----------|:------------|:-----------|:-----------|
-| A serve da destra                 | 0:0        | Destra      | A serve C  | A & B      |
-|                                   |            |             |            |            |
-|                                   |            |             |            |            |
-|                                   |            |             |            |            |
+| A serve da destra<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;                                                                                     | 0:0        | Destra      | A serve C  | A & B      |
 |-----------------------------------+------------+-------------+------------+------------|
-| A & B guadagnano un punto         | 1:0        | Sinistra    | A serve D  | C & D      |
-| A & B si scambiano le aree        |            |             |            |            |
-| A serve ora da sinistra           |            |             |            |            |
-| C & D mantengono le posizioni     |            |             |            |            |
+| A & B guadagnano un punto<br/>A & B si scambiano le aree<br/>A serve ora da sinistra<br/>C & D mantengono le posizioni             | 1:0        | Sinistra    | A serve D  | C & D      |
 |-----------------------------------+------------+-------------+------------+------------|
-| C & D guadagnano un punto         | 1:1        | Sinistra    | D serve A  | A & B      |
-| C & D ottengono il servizio       |            |             |            |            |
-| Tutti mantengono le posizioni     |            |             |            |            |
-|                                   |            |             |            |            |
+| C & D guadagnano un punto<br/>C & D ottengono il servizio<br/>Tutti mantengono le posizioni<br/>&nbsp;                                        | 1:1        | Sinistra    | D serve A  | A & B      |
 |-----------------------------------+------------+-------------+------------+------------|
-| A & B guadagnano un punto         | 2:1        | Destra      | B serve C  | C & D      |
-| A & B ottengono il servizio       |            |             |            |            |
-| Tutti mantengono le posizioni     |            |             |            |            |
-|                                   |            |             |            |            |
+| A & B guadagnano un punto<br/>A & B ottengono il servizio<br/>Tutti mantengono le posizioni<br/>&nbsp;                                        | 2:1        | Destra      | B serve C  | C & D      |
 |-----------------------------------+------------+-------------+------------+------------|
-| C & D guadagnano un punto         | 2:2        | Destra      | C serve B  | C & D      |
-| C & D ottengono il servizio       |            |             |            |            |
-| Tutti mantengono le posizioni     |            |             |            |            |
-|                                   |            |             |            |            |
+| C & D guadagnano un punto<br/>C & D ottengono il servizio<br/>Tutti mantengono le posizioni<br/>&nbsp;                               | 2:2        | Destra      | C serve B  | C & D      |
 |-----------------------------------+------------+-------------+------------+------------|
-| C & D guadagnano un punto         | 3:2        | Sinistra    | C serve A  | A & B      |
-| C & D si scambiano le aree        |            |             |            |            |
-| C serve ora da sinistra           |            |             |            |            |
-| A & B mantengono le posizioni     |            |             |            |            |
+| C & D guadagnano un punto<br/>C & D si scambiano le aree<br/>C serve ora da sinistra<br/>A & B mantengono le posizioni             | 3:2        | Sinistra    | C serve A  | A & B      |
 |-----------------------------------+------------+-------------+------------+------------|
-| A & B guadagnano un punto         | 3:3        | Sinistra    | A serve C  | A & B      |
-| A & B ottengono il servizio       |            |             |            |            |
-| Tutti mantengono le posizioni     |            |             |            |            |
-|                                   |            |             |            |            |
+| A & B guadagnano un punto<br/>A & B ottengono il servizio<br/>Tutti mantengono le posizioni<br/>&nbsp;                               | 3:3        | Sinistra    | A serve C  | A & B      |
 |-----------------------------------+------------+-------------+------------+------------|
-| A & B guadagnano un punto         | 4:3        | Destra      | A serve D  | C & D      |
-| A & B si scambiano le aree        |            |             |            |            |
-| A serve ora da destra             |            |             |            |            |
-| C & D mantengono le posizioni     |            |             |            |            |
+| A & B guadagnano un punto<br/>A & B si scambiano le aree<br/>A serve ora da destra<br/>C & D mantengono le posizioni             | 4:3        | Destra      | A serve D  | C & D      |
 |-----------------------------------+------------+-------------+------------+------------|
