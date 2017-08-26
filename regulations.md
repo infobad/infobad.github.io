@@ -7,6 +7,12 @@ permalink: /regulations/
 [bwflb]: http://system.bwf.website/documents/folder_1_81/Regulations/Laws/Part%20II%20Section%201A%20-%20Laws%20of%20Badminton%20-%20June%202016%20Revised%202.pdf "Laws of Badminton"
 [bwfsrb]: http://system.bwf.website/documents/folder_1_81/Regulations/Simplified-Rules/Simplified%20Rules%20of%20Badminton%20-%20Dec%202015.pdf "Simplified Rules of Badminton"
 
+# Campo per il Badminton
+
+Le dimensioni del campo sono stabilite dalla [Badminton World Federation (BWF)][bwf]. L'illlustrazione che segue è liberamente tratta da Internet.
+
+![Dimensioni del campo](/assets/court_dimensions.jpg)
+
 # Regole del Badminton #
 
 Le regole del gioco complete sono scaricabili dal [sito della Badminton World Federation (BWF)][bwf] in lingua inglese [qui][bwflb].
@@ -37,7 +43,7 @@ Segue una libera traduzione. Il documento originale in lingua inglese è scarica
 
 * Durante il terzo set i giocatori scambiano le parti quando il lato vincente raggiunge gli 11 punti.
 
-## Servizio nel singolo ##
+## Servizio nel singolare ##
 
 * All'inizio del set (0-0) e quando il punteggio del servente è pari, quest'ultimo serve dal lato destro del proprio campo. Quando il punteggio del servente è dispari, quest'ultimo serve dal lato sinistro del proprio campo.
 
