@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Pieghevole 2017/2018"
+date:   2017-08-26 14:46:00
+categories: blog update
+---
+Il pieghevole distribuito dalla SGB è disponibile [qui in formato PDF]({{ site.url }}/assets/sgb_pieghevole_2017_2018.pdf) per il download.
