@@ -21,15 +21,15 @@
         var profile = googleUser.getBasicProfile();
         var content = document.getElementById('content');
         content.innerHTML =
-          '<p>' + 'Full Name: ' + profile.getName() + '</p>';
-        toggleVisibility(content);
+          '<p>' + 'User signed in. Full name: ' + profile.getName() + '.' + '</p>';
+        toggleVisibility('content');
       }
       function onSignInFailure() {
         // Handle sign-in errors
         var content = document.getElementById('content');
         content.innerHTML =
-          '<p>' + 'Sign-in failed' + '</p>';
-        toggleVisibility(content);
+          '<p>' + 'User not signed in. Failure.' + '</p>';
+        toggleVisibility('content');
       }
     </script>
     <a href="#" onclick="signOut();">Sign out</a>
@@ -40,8 +40,8 @@
         auth2.signOut().then(function () {
           var content = document.getElementById('content');
           content.innerHTML =
-            '<p>' + 'Sign-out completed' + '</p>';
-          toggleVisibility(content);
+            '<p>' + 'User signed out.' + '</p>';
+          toggleVisibility('content');
         });
       }
     </script>
