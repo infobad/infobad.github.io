@@ -3,11 +3,27 @@
     <meta name="google-signin-scope" content="profile email">
     <meta name="google-signin-client_id" content="73197657416-15do5qf9avub3f8tjvr9uei7h2hebq96.apps.googleusercontent.com">
     <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <script>
+      function toggleVisibility(id) {
+        var div = document.getElementById(id);
+        if (div.getAttribute('class') == 'hide') {
+          div.setAttribute('class', 'show');
+        } else {
+          div.setAttribute('class', 'hide');
+        }
+      }
+    </script>
   </head>
-  <body>
-    <div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark"></div>
+    <>
+    <div class="g-signin2" data-onsuccess="onSignIn" data-onfailure="onSignInFailure"> data-theme="dark"></div>
     <script>
       function onSignIn(googleUser) {
+        // Handle successful sign-in
+        var content = document.getElementById('content');
+        content.innerHTML =
+          '<p>' + 'Full Name: ' + profile.getName() + '</p>';
+        toggleVisibility(content);
+
         // Useful data for your client-side scripts:
         var profile = googleUser.getBasicProfile();
         console.log("ID: " + profile.getId()); // Don't send this directly to your server!
@@ -21,6 +37,13 @@
         var id_token = googleUser.getAuthResponse().id_token;
         console.log("ID Token: " + id_token);
       };
+      function onSignInFailure() {
+        // Handle sign-in errors
+        var content = document.getElementById('content');
+        content.innerHTML =
+          '<p>' + 'Please check user and password' + '</p>';
+        toggleVisibility(content);
+      }
     </script>
     <a href="#" onclick="signOut();">Sign out</a>
     <script>
@@ -31,5 +54,6 @@
         });
       }
     </script>
+    <div id="content" class="hide"></div>
   </body>
 </html>
