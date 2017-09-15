@@ -4,6 +4,7 @@
     <meta name="google-signin-client_id" content="73197657416-15do5qf9avub3f8tjvr9uei7h2hebq96.apps.googleusercontent.com">
     <script src="https://apis.google.com/js/platform.js" async defer></script>
   </head>
+  <body>
     <script>
       function toggleVisibility(id) {
         var div = document.getElementById(id);
@@ -14,7 +15,7 @@
         }
       }
     </script>
-    <div class="g-signin2" data-onsuccess="onSignIn" data-onfailure="onSignInFailure"> data-theme="dark"></div>
+    <div class="g-signin2" data-onsuccess="onSignIn" data-onfailure="onSignInFailure" data-theme="dark"></div>
     <script>
       function onSignIn(googleUser) {
         // Handle successful sign-in
