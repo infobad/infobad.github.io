@@ -9,7 +9,7 @@ permalink: /clubs/
 
 # In Ticino #
 
-* [Amici Badminton Cadro][abc]
+* [Amici Badminton Cadro][abc] ([articolo sulla Rivista di Lugano in formato PDF]({{ site.url }}/assets/Rivista_di_Lugano_LXXIX_38_42-43.pdf))
 
 * [Badminton Club Lugano][bcl]
 
