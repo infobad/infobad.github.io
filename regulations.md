@@ -9,7 +9,7 @@ permalink: /regulations/
 
 # Campo per il Badminton
 
-Le dimensioni del campo sono stabilite dalla [Badminton World Federation (BWF)][bwf]. L'illlustrazione che segue è liberamente tratta da Internet.
+Le dimensioni del campo sono stabilite dalla [Badminton World Federation (BWF)][bwf]. L'illustrazione che segue è liberamente tratta da Internet.
 
 ![Dimensioni del campo](/assets/court_dimensions.jpg)
 
