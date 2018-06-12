@@ -20,7 +20,7 @@ Le attività proseguono su base volontaria anche durante l'estate. René propone
 
 * Martedì 31 luglio 2018: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
-* Martedì 7 agosto 2018: passeggiata lugno il fiume Cassarate (ritrovo ore 20:00 alle scuole di Breganzona)
+* Martedì 7 agosto 2018: passeggiata fiume Cassarate (ritrovo ore 20:00 alle scuole di Breganzona)
 
 * Martedì 14 agosto 2018: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
