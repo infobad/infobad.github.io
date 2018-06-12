@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Programma estivo 2018"
-date:   2018-06-07 22:03:00
+date:   2018-06-12 20:18:00
 categories: blog update
 ---
 Le attività proseguono su base volontaria anche durante l'estate. René propone il seguente programma:
@@ -20,7 +20,7 @@ Le attività proseguono su base volontaria anche durante l'estate. René propone
 
 * Martedì 31 luglio 2018: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
-* Martedì 7 agosto 2018: passeggiata per Lugano (ritrovo ore 20:00 alle scuole di Breganzona)
+* Martedì 7 agosto 2018: passeggiata lugno il fiume Cassarate (ritrovo ore 20:00 alle scuole di Breganzona)
 
 * Martedì 14 agosto 2018: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
@@ -28,9 +28,9 @@ Le attività proseguono su base volontaria anche durante l'estate. René propone
 
 * Martedì 28 agosto 2018: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
-* Martedì 4 settembre 2018: uscita al grotto Morchino a Pazzallo (ritrovo ore 20:00 alle scuole di Breganzona)
+* Martedì 4 settembre 2018: uscita al grotto Morchino a Pazzallo (ritrovo ore 20:00 alle scuole di Breganzona). Costo indicativo: Fr. 20.- per un piatto freddo ticinese. Iscrizioni: entro martedì 28 agosto 2018 comunicando la volontà di partecipare a René.
 
-* Domenica 9 settembre 2018: uscita alla capanna del Monte Bar (partenza ore 07:30 dalla stazione di Tesserete)
+* Domenica 9 settembre 2018: uscita alla capanna del Monte Bar (partenza ore 07:30 dalla stazione degli autobus di Tesserete)
 
 Per il vita parcour a Breganzona è necessaria la tenuta sportiva mentre per i rimanenti eventi è sufficiente un abbigliamento adeguato a passeggiare.
 
