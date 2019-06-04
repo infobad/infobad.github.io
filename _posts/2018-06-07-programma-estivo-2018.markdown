@@ -24,7 +24,7 @@ Le attività proseguono su base volontaria anche durante l'estate. René propone
 
 * Martedì 14 agosto 2018: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
-* Martedì 21 agosto 2017: giro del monte di Caslano (ritrovo ore 20:00 al parcheggio del cimitero di Caslano)
+* Martedì 21 agosto 2018: giro del monte di Caslano (ritrovo ore 20:00 al parcheggio del cimitero di Caslano)
 
 * Martedì 28 agosto 2018: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
