@@ -5,6 +5,7 @@ permalink: /clubs/
 ---
 [abc]: http://www.badminton-cadro.ch/ "Amici Badminton Cadro"
 [bcl]: http://www.badminton-lugano.ch/ "Badminton Club Lugano"
+[bcm]: https://www.badminton.it/ "Badminton Club Milano"
 [mb]: http://www.mendrisiobadminton.ch/ "Mendrisio Badminton"
 [sag]: http://www.saggordola.ch/index.php?node=380&lng=1&rif=3e05bad6da "Società Atletica e Ginnastica Gordola"
 
@@ -19,3 +20,7 @@ permalink: /clubs/
 * [Mendrisio Badminton][mb]
 
 * [Società Atletica e Ginnastica Gordola][sag]
+
+# In Italia #
+
+* [Badminton Club Milano][bcm]
