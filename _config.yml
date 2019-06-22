@@ -14,7 +14,7 @@ markdown: kramdown
 highlighter: rouge
 encoding: utf-8
 permalink: date
-theme: minima
+theme: jekyll-theme-cayman
 header_pages:
   - regulations.md
   - clubs.md
