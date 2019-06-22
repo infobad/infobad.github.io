@@ -20,9 +20,9 @@ permalink: /clubs/
 
 * [Mendrisio Badminton][mb]
 
-* [Società Atletica e Ginnastica Gordola][sag]
-
 * [Servizio Sport USI e SUPSI][ssu]
+
+* [Società Atletica e Ginnastica Gordola][sag]
 
 # In Italia #
 
