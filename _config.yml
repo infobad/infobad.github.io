@@ -8,6 +8,10 @@ url: "http://infobad.github.io" # the base hostname & protocol for your site
 twitter_username: capradellenevi
 github_username:  infobad
 logo: "/assets/logo_gbb.png"
+header_pages:
+  - regulations.md
+  - clubs.md
+  - impressum.md
 
 # Build settings
 markdown: kramdown
