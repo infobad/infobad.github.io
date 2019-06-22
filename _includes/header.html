@@ -2,7 +2,19 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    {% if site.header_pages %}
+      {% assign header_pages = "" | split:"|"  %}
+      {% for path in site.header_pages %}
+        {% assign header_page = site.pages | where: "path", path | first %}
+        {% if header_page %}
+          {% assign header_pages = header_pages | push: header_page %}
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      {% assign header_pages = site.pages %}
+    {% endif %}
+
+    <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.logo | relative_url }}" alt="Infobad" width="50" /></a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,7 +26,7 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
+        {% for page in header_pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
