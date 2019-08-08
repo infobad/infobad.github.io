@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pieghevole 2019/2020"
+date:   2019-08-08 19:33:00
+categories: blog update
+---
+La panoramica dei corsi contenuta nel pieghevole distribuito dalla SGB è disponibile [qui in formato PDF]({{ site.url }}/assets/sgb_pieghevole_2019_2020.pdf) per il download. Qualora la società dovesse pubblicare in rete l'intero documento, lo riproporrei qui.
+
+Le tasse sociali sono rimaste invariate:
+
+* Giovani (fino a 17 anni) pagano Fr. 130.- per una o più attività
+
+* Adulti (oltre i 17 anni) pagano Fr. 150.- per una singola attività
