@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stagione 2019/2020"
-date:   2018-08-08 19:41:00
+date:   2019-08-08 19:41:00
 categories: blog update
 ---
 Badminton ricomincia lunedì 9 settembre 2019 alle ore 20:00 alle palestre delle scuole elementari di Breganzona.
