@@ -20,11 +20,11 @@ Le attività proseguono su base volontaria anche durante l'estate. René propone
 
 * Martedì 30 luglio 2019: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
-* Martedì 6 agosto 2019: giro del monte di Caslano (ritrovo ore 20:00 al parcheggio del cimitero di Caslano)
+* Martedì 6 agosto 2019: APPUNTAMENTO ANNULLATO CAUSA CATTIVE CONDIZIONI METEOROLOGICHE
 
 * Martedì 13 agosto 2019: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
-* Martedì 20 agosto 2019: passeggiata fiume Cassarate (ritrovo ore 20:00 alle scuole di Breganzona)
+* Martedì 20 agosto 2019: giro del monte di Caslano (ritrovo ore 20:00 al parcheggio del cimitero di Caslano)
 
 * Martedì 27 agosto 2019: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
