@@ -20,7 +20,7 @@ Le attività proseguono su base volontaria anche durante l'estate. René propone
 
 * Martedì 30 luglio 2019: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
-* Martedì 6 agosto 2019: __APPUNTAMENTO ANNULLATO CAUSA CATTIVE CONDIZIONI METEOROLOGICHE__
+* Martedì 6 agosto 2019: **APPUNTAMENTO ANNULLATO CAUSA CATTIVE CONDIZIONI METEOROLOGICHE**
 
 * Martedì 13 agosto 2019: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
