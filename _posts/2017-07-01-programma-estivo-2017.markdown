@@ -26,6 +26,6 @@ Le attività proseguono su base volontaria anche durante l'estate. René propone
 
 Per il vita parcour a Breganzona è necessaria la tenuta sportiva mentre per i rimanenti eventi è sufficiente un abbigliamento adeguato a passeggiare.
 
-Il gruppo solitamente si ferma a bere qualcosa in compagnia ad ogni occasione per cui è suggerito portare con se alcuni soldi.
+Il gruppo solitamente si ferma a bere qualcosa in compagnia ad ogni occasione per cui è suggerito portare con sé alcuni soldi.
 
 L'uscita al monte San Salvatore prevede un costo di Fr. 30.- (Fr. 15.- per chi fosse in possesso dell'abbonamento a metà prezzo) per la salita in funicolare.

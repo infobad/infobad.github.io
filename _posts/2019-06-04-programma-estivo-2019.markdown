@@ -32,6 +32,6 @@ Le attività proseguono su base volontaria anche durante l'estate. René propone
 
 Per il vita parcour a Breganzona è necessaria la tenuta sportiva mentre per i rimanenti eventi è sufficiente un abbigliamento adeguato a passeggiare.
 
-Il gruppo solitamente si ferma a bere qualcosa in compagnia ad ogni occasione per cui è suggerito portare con se alcuni soldi.
+Il gruppo solitamente si ferma a bere qualcosa in compagnia ad ogni occasione per cui è suggerito portare con sé alcuni soldi.
 
 Ulteriori dettagli saranno forniti agli interessati, in particolare riguardo agli eventi più lontani nel tempo.
