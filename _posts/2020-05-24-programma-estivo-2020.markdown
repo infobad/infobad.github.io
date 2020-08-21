@@ -26,7 +26,7 @@ Le attività proseguono su base volontaria anche durante l'estate. René propone
 
 * Martedì 25 agosto 2020: vita parcour a Breganzona (partenza ore 19:45 dal bar Pradello)
 
-* Martedì 1 settembre 2020: uscita al ristorante TCS Vedeggio di Muzzano (ritrovo ore 19:30 direttamente al ristorante).
+* Martedì 1 settembre 2020: uscita al ristorante TCS Vedeggio di Muzzano (ritrovo ore 19:30 direttamente al ristorante)
 
 Per il vita parcour a Breganzona è necessaria la tenuta sportiva mentre per i rimanenti eventi è sufficiente un abbigliamento adeguato a passeggiare.
 

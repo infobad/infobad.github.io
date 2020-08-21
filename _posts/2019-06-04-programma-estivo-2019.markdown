@@ -28,7 +28,7 @@ Le attività proseguono su base volontaria anche durante l'estate. René propone
 
 * Martedì 27 agosto 2019: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
-* Martedì 3 settembre 2019: uscita al grotto, destinazione da definire, dettagli a seguire (ritrovo ore 20:00 alle scuole di Breganzona).
+* Martedì 3 settembre 2019: uscita al grotto, destinazione da definire, dettagli a seguire (ritrovo ore 20:00 alle scuole di Breganzona)
 
 Per il vita parcour a Breganzona è necessaria la tenuta sportiva mentre per i rimanenti eventi è sufficiente un abbigliamento adeguato a passeggiare.
 
