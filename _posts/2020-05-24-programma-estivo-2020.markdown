@@ -18,15 +18,15 @@ Le attività proseguono su base volontaria anche durante l'estate. René propone
 
 * Martedì 28 luglio 2020: passeggiata per Gandria (ritrovo ore 20:00 alle scuole di Breganzona)
 
-* Martedì 4 agosto 2020: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
+* Martedì 4 agosto 2020: passeggiata lungo il fiume Cassarate a Lugano (ritrovo ore 20:00 alle scuole di Breganzona)
 
-* Martedì 11 agosto 2020: passeggiata lungo il fiume Cassarate a Lugano (ritrovo ore 20:00 alle scuole di Breganzona)
+* Martedì 11 agosto 2020: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
 
-* Martedì 18 agosto 2020: vita parcour a Breganzona (partenza ore 20:00 dal bar Pradello)
+* Martedì 18 agosto 2020: giro del monte di Caslano (ritrovo ore 19:45 al parcheggio del cimitero di Caslano)
 
-* Martedì 25 agosto 2020: giro del monte di Caslano (ritrovo ore 20:00 al parcheggio del cimitero di Caslano)
+* Martedì 25 agosto 2020: vita parcour a Breganzona (partenza ore 19:45 dal bar Pradello)
 
-* Martedì 1 settembre 2020: uscita al grotto, destinazione da definire, dettagli a seguire (ritrovo ore 20:00 alle scuole di Breganzona).
+* Martedì 1 settembre 2020: uscita al ristorante TCS Vedeggio di Muzzano (ritrovo ore 19:30 direttamente al ristorante).
 
 Per il vita parcour a Breganzona è necessaria la tenuta sportiva mentre per i rimanenti eventi è sufficiente un abbigliamento adeguato a passeggiare.
 
