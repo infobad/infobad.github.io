@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pieghevole 2021/2022"
+date:   2021-09-12 20:20:00
+categories: blog update
+---
+Il pieghevole distribuito dalla SGB è disponibile [qui in formato PDF]({{ site.url }}/assets/sgb_pieghevole_2021_2022.pdf) per il download.
+
+Le tasse sociali sono rimaste invariate:
+
+* Giovani (fino a 17 anni) pagano Fr. 130.- per una o più attività
+
+* Adulti (oltre i 17 anni) pagano Fr. 150.- per una singola attività
