@@ -4,7 +4,9 @@ title:  "Inasprimento dell'obbligo del certificato al chiuso"
 date:   2021-12-20 17:14:00
 categories: blog update
 ---
-Il consiglio federale ha rafforzato i provvedimenti per contenere il coronavirus.
+Il consiglio federale ha rafforzato i provvedimenti per contenere il coronavirus. Per poter praticare sport amatoriali indoor, gli adulti sopra i 16 anni devono essere in possesso di un certificato valido (2G) e indossare la mascherina anche durante il gioco. Sono esonerati dall'indossare la mascherina coloro che rispondano ai criteri 2G+ ossia:
+* 2G con test dal risultato negativo (test antigenico rapido <24h oppure test PCR <72h)
+* 2G con vaccinazione completa, vaccinazione di richiamo o guarizione avvenuta negli ultimi 4 mesi
 
 L'illustrazione che segue è liberamente tratta da Internet.
 
