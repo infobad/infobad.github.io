@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stagione 2022/2023"
-date:   2022-08-12 11:08:00
+date:   2022-08-20 08:08:00
 categories: blog update
 ---
 Badminton ricomincia lunedì 5 settembre 2022 alle ore 20:00 alle palestre delle scuole elementari di Breganzona.
