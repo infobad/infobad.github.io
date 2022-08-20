@@ -18,11 +18,13 @@ Le attività proseguono su base volontaria anche durante l'estate. René propone
 
 * Martedì 26 luglio 2022: passeggiata lungo il fiume Vedeggio ad Agno (ritrovo ore 19:30 al campeggio TCS di Agno)
 
+* Martedì 2 agosto 2022: cena al grotto Valle a Caslano (per ulteriori dettagli contattare René)
+
 * Martedì 9 agosto 2022: passeggiata Cassina d'Agno-Magliaso (ritrovo ore 19:30 al parcheggio ex night club Tropical)
 
 * Martedì 16 agosto 2022: passeggiata da Bre alla vetta e ritorno (ritrovo ore 19:30 alle scuole di Breganzona)
 
-* Martedì 23 agosto 2022: passeggiata sul sentiero delle meraviglie (partenza ore 19:30 dal parcheggio di Novaggio)
+* Martedì 23 agosto 2022: passeggiata intorno al laghetto di Origlio (ritrovo ore 19:30 alle scuole di Breganzona) - PROGRAMMA MODIFICATO
 
 * Martedì 30 agosto 2022: giro del laghetto di Muzzano (ritrovo ore 19:30 alle scuole di Breganzona)
 
