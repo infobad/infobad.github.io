@@ -13,7 +13,9 @@ logo: "/assets/logo_gbb.png"
 markdown: kramdown
 highlighter: rouge
 encoding: UTF-8
+timezone: "Europe/Zurich"
 permalink: date
+future: true
 theme: minima
 header_pages:
   - agenda.md
