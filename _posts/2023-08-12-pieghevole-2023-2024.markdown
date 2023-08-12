@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pieghevole 2023/2024"
+date:   2023-08-12 11:00:00
+categories: blog update
+---
+Il pieghevole distribuito dalla SGB è disponibile [qui in formato PDF]({{ site.url }}/assets/sgb_pieghevole_2023_2024.pdf) per il download.
+
+Le tasse sociali sono aumentate rispetto agli anni scorsi:
+
+* Giovani (fino a 17 anni) pagano Fr. 150.-
+
+* Adulti (oltre i 17 anni) pagano Fr. 170.-
