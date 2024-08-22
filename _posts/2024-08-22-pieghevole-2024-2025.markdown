@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Pieghevole 2024/2025"
+date:   2024-08-22 20:00:00
+categories: blog update
+---
+Il pieghevole distribuito dalla SGB è disponibile [qui in formato PDF]({{ site.url }}/assets/sgb_pieghevole_2024_2025.pdf) per il download.
+
+I corsi riprendono lunedì 9 settembre 2024.
+
+Le tasse sociali sono aumentate rispetto agli anni scorsi:
+
+* Giovani (fino a 17 anni) pagano Fr. 150.-
+
+* Adulti (oltre i 17 anni) pagano Fr. 170.-
