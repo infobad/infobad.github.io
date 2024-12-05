@@ -8,7 +8,8 @@ permalink: /clubs/
 [bcm]: https://www.badminton.it/ "Badminton Club Milano"
 [mb]: http://www.mendrisiobadminton.ch/ "Mendrisio Badminton"
 [sag]: http://www.saggordola.ch/index.php?node=380&lng=1&rif=3e05bad6da "Società Atletica e Ginnastica Gordola"
-[ssu]: https://sport.usi.ch/taxonomy/term/75 "Servizio Sport USI e SUPSI"
+[sis]: https://sisport.ch/badminton/ "SISPORT"
+[ssu]: https://sport.usi.ch/it/abbonamento-sport-di-racchetta "Servizio Sport USI e SUPSI"
 
 # In Ticino #
 
@@ -21,6 +22,8 @@ permalink: /clubs/
 * [Mendrisio Badminton][mb]
 
 * [Servizio Sport USI e SUPSI][ssu]
+
+* [SISPORT][sis]
 
 * [Società Atletica e Ginnastica Gordola][sag]
 
