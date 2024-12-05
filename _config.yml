@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Informazioni per il gruppo badminton di Breganzona.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://infobad.github.io" # the base hostname & protocol for your site
-twitter_username: capradellenevi
+# twitter_username: capradellenevi
 github_username:  infobad
 logo: "/assets/logo_gbb.png"
 
@@ -13,9 +13,12 @@ logo: "/assets/logo_gbb.png"
 markdown: kramdown
 highlighter: rouge
 encoding: UTF-8
+timezone: "Europe/Zurich"
 permalink: date
+future: true
 theme: minima
 header_pages:
+  - about.md
   - agenda.md
   - regulations.md
   - clubs.md
