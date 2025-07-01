@@ -4,17 +4,22 @@ title: Su di noi
 permalink: /about/
 ---
 
-# In breve #
+# In breve
 
 L'Associazione Badminton Motus promuove il badminton come forma di benessere attivo, unendo movimento, socialità e divertimento. Siamo un gruppo di appassionati di livello intermedio-avanzato (18+). Non abbiamo particolari ambizioni e non prendiamo parte a gare e competizioni.
 
-# Diventare membri #
+# Diventare membri
 
 Non abbiamo istruttori professionisti, quindi non possiamo accettare principianti assoluti. Prima dell'inserimento, proponiamo una breve prova per valutare l'idoneità al gruppo. Il numero di partecipanti è limitato a circa 14 persone, per garantire a tutti spazio e gioco. Se ami il badminton e hai già esperienza, saremo felici di conoscerti!
 
-# Documenti #
+# Documenti
 
-## Atto costitutivo ##
+[1]: <{{ site.url }}/assets/abm_atto_costitutivo_20250701_v10.pdf> "Atto costitutivo"
+[2]: <{{ site.url }}/assets/abm_statuto_20250701_v10.pdf> "Statuto"
+[3]: <{{ site.url }}/assets/abm_regolamento_interno_20250701_v10.pdf> "Regolamento interno"
+[4]: <{{ site.url }}/assets/abm_verbale_20250701_v10.pdf> "Verbale dell'assemblea costitutiva dell'Associazione Badminton Motus"
+
+## [Atto costitutivo][1]
 
 Noi sottoscritti:
 
@@ -36,21 +41,21 @@ Flavio Crivelli
 
 Jorge Terranova
 
-## Statuto ##
+## [Statuto][2]
 
-### Art. 1 - Denominazione e sede ###
+### Art. 1 - Denominazione e sede
 
 1. É costituita l'associazione denominata "Associazione Badminton Motus" (di seguito "l'Associazione").
 
 2. La sede legale è presso il domicilio di Flavio Crivelli a Massagno, Canton Ticino, Svizzera.
 
-### Art. 2 - Scopo ###
+### Art. 2 - Scopo
 
 1. L'Associazione ha lo scopo di promuovere la pratica amatoriale del badminton come attività sportiva e ricreativa per adulti, finalizzata al benessere fisico, alla socializzazione e al divertimento.
 
 2. L'Associazione svolge esclusivamente attività senza scopo di lucro.
 
-### Art. 3 - Membri ###
+### Art. 3 - Membri
 
 1. L'Associazione è composta da membri attivi.
 
@@ -62,13 +67,13 @@ Jorge Terranova
 
 5. Per garantire spazio e qualità dell'attività, il numero massimo di membri attivi è limitato a 14. Ulteriori richieste possono essere inserite in lista d'attesa.
 
-### Art. 4 - Diritti e doveri dei membri ###
+### Art. 4 - Diritti e doveri dei membri
 
 1. I membri hanno diritto di partecipare alle attività dell'Associazione e di votare all'assemblea generale.
 
 2. I membri sono tenuti a rispettare il presente statuto, le decisioni dell'assemblea e le regole stabilite dal comitato direttivo.
 
-### Art. 5 - Organi dell'Associazione ###
+### Art. 5 - Organi dell'Associazione
 
 1. L'Associazione è composta dai seguenti organi:
 
@@ -78,7 +83,7 @@ Jorge Terranova
 
     c) Revisore dei conti (facoltativo)
 
-### Art. 6 - Assemblea generale ###
+### Art. 6 - Assemblea generale
 
 1. L'assemblea generale è l'organo sovrano dell'Associazione e si riunisce almeno una volta all'anno.
 
@@ -92,7 +97,7 @@ Jorge Terranova
 
     d) deliberare sulla dissoluzione dell'Associazione.
 
-### Art. 7 - Comitato direttivo ###
+### Art. 7 - Comitato direttivo
 
 1. Il comitato direttivo è composto da almeno una persona che ricopre il ruolo di presidente e tesoriere.
 
@@ -100,7 +105,7 @@ Jorge Terranova
 
 3. Il comitato direttivo gestisce l'Associazione, rappresenta legalmente l'Associazione e organizza le attività.
 
-### Art. 8 - Finanze ###
+### Art. 8 - Finanze
 
 1. Le entrate dell'Associazione sono costituite da:
 
@@ -108,7 +113,7 @@ Jorge Terranova
 
     b) eventuali contributi o donazioni
 
-### Art. 9 - Durata e scioglimento ###
+### Art. 9 - Durata e scioglimento
 
 1. La durata dell'Associazione è illimitata.
 
@@ -116,43 +121,43 @@ Jorge Terranova
 
 3. In caso di scioglimento, il patrimonio residuo sarà devoluto ad enti con finalità analoghe o di pubblica utilità.
 
-### Art. 10 - Disposizioni finali ###
+### Art. 10 - Disposizioni finali
 
 1. Per quanto non espressamente previsto nel presente statuto, si applicano le norme del Codice Civile Svizzero relative alle associazioni (art. 60 e seguenti).
 
-## Regolamento interno ##
+## [Regolamento interno][3]
 
-### Art. 1 - Quote associative ###
+### Art. 1 - Quote associative
 
 1. La quota associativa annuale è fissata a CHF 230.- e deve essere versata entro ottobre di ogni anno.
 
 2. La quota può essere modificata dall'assemblea generale su proposta del comitato direttivo.
 
-### Art. 2 - Orari e luogo di allenamento ###
+### Art. 2 - Orari e luogo di allenamento
 
 1. Le attività si svolgono presso la palestra scolastica di Muzzano.
 
 2. Gli orari saranno comunicati dal comitato direttivo con congruo anticipo.
 
-### Art. 3 - Comportamento e fair play ###
+### Art. 3 - Comportamento e fair play
 
 1. Tutti i membri sono tenuti a mantenere un comportamento rispettoso e sportivo.
 
 2. È vietato qualsiasi atteggiamento discriminatorio, violento o pericoloso.
 
-### Art. 4 - Sicurezza ###
+### Art. 4 - Sicurezza
 
 1. I membri sono responsabili della propria sicurezza durante le attività.
 
 2. È consigliato l'uso di adeguata attrezzatura sportiva.
 
-### Art. 5 - Decadenza e sospensione ###
+### Art. 5 - Decadenza e sospensione
 
 1. Il comitato direttivo può sospendere o escludere un socio in caso di gravi violazioni del regolamento o dello statuto, previa comunicazione scritta.
 
-## Verbali ##
+## Verbali
 
-### Verbale dell'assemblea costitutiva dell'Associazione Badminton Motus ###
+### [Verbale dell'assemblea costitutiva dell'Associazione Badminton Motus][4]
 
 In data martedì 1 luglio 2025, alle ore 13:00, presso il domicilio di Flavio Crivelli a Massagno, si è riunita l'assemblea costitutiva dell'Associazione Badminton Motus, convocata per fondare l'Associazione e approvare lo statuto.
 
