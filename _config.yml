@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://infobad.github.io" # the base hostname & protocol for your site
 # twitter_username: capradellenevi
 github_username: infobad
-logo: "/assets/logo_gbb.png"
+logo: "/assets/logo_badminton_motus_transparent.png"
 
 # Build settings
 markdown: kramdown

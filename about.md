@@ -124,7 +124,7 @@ Jorge Terranova
 
 ### Art. 1 - Quote associative ###
 
-1. La quota associativa annuale è fissata a CHF 200.- e deve essere versata entro ottobre di ogni anno.
+1. La quota associativa annuale è fissata a CHF 230.- e deve essere versata entro ottobre di ogni anno.
 
 2. La quota può essere modificata dall'assemblea generale su proposta del comitato direttivo.
 
@@ -152,7 +152,7 @@ Jorge Terranova
 
 ## Verbali ##
 
-**Verbale dell'assemblea costitutiva dell'Associazione Badminton Motus**
+### Verbale dell'assemblea costitutiva dell'Associazione Badminton Motus ###
 
 In data martedì 1 luglio 2025, alle ore 13:00, presso il domicilio di Flavio Crivelli a Massagno, si è riunita l'assemblea costitutiva dell'Associazione Badminton Motus, convocata per fondare l'Associazione e approvare lo statuto.
 
@@ -172,7 +172,7 @@ L'assemblea procede quindi alla nomina del comitato direttivo:
 
 - Segretario (facoltativo): Jorge Terranova
 
-Si decide inoltre di fissare la quota associativa annuale in CHF 200.-.
+Si decide inoltre di fissare la quota associativa annuale in CHF 230.-.
 
 Non essendoci altri punti all'ordine del giorno, l'assemblea viene chiusa alle ore 14:00.
 
