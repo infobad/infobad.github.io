@@ -137,7 +137,7 @@ Jorge Terranova
 
 2. La quota associativa annuale è fissata a CHF 230.- e deve essere versata entro il mese di ottobre di ogni anno.
 
-3. **Iscrizioni a stagione iniziata**: i membri che si iscrivono dopo l'inizio della stagione sportiva versano una quota proporzionale calcolata sui mesi rimanenti fino al 31 agosto, secondo la seguente tabella:
+3. Iscrizioni a stagione iniziata: i membri che si iscrivono dopo l'inizio della stagione sportiva versano una quota proporzionale calcolata sui mesi rimanenti fino al 31 agosto, secondo la seguente tabella:
 
    | Mese di iscrizione | Mesi rimanenti | Quota proporzionale |
    |-------------------|----------------|---------------------|
@@ -152,7 +152,7 @@ Jorge Terranova
 
    L'ammissione non è consentita dopo il 31 marzo.
 
-4. **Partecipanti occasionali**: persone non socie possono partecipare gratuitamente alle attività su invito di un membro attivo, alle seguenti condizioni:
+4. Partecipanti occasionali: persone non socie possono partecipare gratuitamente alle attività su invito di un membro attivo, alle seguenti condizioni:
    - Massimo 3 partecipazioni gratuite per stagione sportiva come "ospite in prova"
    - Il membro invitante si fa garante del comportamento dell'ospite
    - Sottoscrizione di una liberatoria di responsabilità
@@ -161,7 +161,7 @@ Jorge Terranova
    - Dopo 3 partecipazioni, l'ospite deve decidere se iscriversi come membro attivo o cessare la partecipazione
    - Esclusione da eventuali eventi ufficiali o competitivi dell'Associazione
 
-5. **Ospiti speciali**: il comitato direttivo può invitare senza limiti di partecipazione:
+5. Ospiti speciali: il comitato direttivo può invitare senza limiti di partecipazione:
    - Istruttori o giocatori esperti per sessioni formative
    - Sostituti occasionali per garantire il numero minimo di partecipanti alle attività
    - Altri ospiti per esigenze organizzative dell'Associazione
