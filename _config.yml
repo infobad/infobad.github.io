@@ -19,6 +19,7 @@ future: true
 theme: minima
 header_pages:
   - about.md
+  - about_draft.md
   - agenda.md
   - regulations.md
   - clubs.md
