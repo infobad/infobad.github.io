@@ -57,19 +57,21 @@ Jorge Terranova
 
 ### Art. 3 - Membri
 
-1. L'Associazione è composta da membri attivi.
+1. L'Associazione è composta da membri attivi e soci in prova.
 
-2. Possono essere ammessi come membri attivi esclusivamente persone fisiche maggiorenni (18 anni compiuti) che dimostrino un livello intermedio o avanzato nella pratica del badminton. Poiché l'Associazione non dispone di istruttori professionisti, non vengono ammessi principianti assoluti.
+2. Possono essere ammessi come membri attivi o soci in prova esclusivamente persone fisiche maggiorenni (18 anni compiuti) che dimostrino un livello intermedio o avanzato nella pratica del badminton. Poiché l'Associazione non dispone di istruttori professionisti, non vengono ammessi principianti assoluti.
 
 3. L'ammissione di nuovi membri avviene su richiesta scritta e approvazione del comitato direttivo.
 
-4. L'ammisisone è subordinata a una sessione di prova volta a valutare l'idoneità tecnica e e la compatibilità con il gruppo. La valutazione viene effettuata dal comitato direttivo o da membri da esso incaricati.
+4. L'ammissione è subordinata a una sessione di prova volta a valutare l'idoneità tecnica e e la compatibilità con il gruppo. La valutazione viene effettuata dal comitato direttivo o da membri da esso incaricati.
 
 5. Per garantire spazio e qualità dell'attività, il numero massimo di membri attivi è limitato a 14. Ulteriori richieste possono essere inserite in lista d'attesa.
 
 6. Possono essere ammessi membri durante la stagione sportiva in corso con quota proporzionale ai mesi rimanenti, previa sessione di prova e nel rispetto del limite massimo di membri attivi.
 
-7. Il comitato direttivo può autorizzare la partecipazione alle attività di persone non socie a titolo di ospiti occasionali o ospiti speciali, secondo le modalità stabilite dal regolamento interno.
+7. I soci in prova hanno gli stessi doveri dei membri attivi ma non hanno diritto di voto in assemblea generale. Dopo la prima stagione sportiva, i soci in prova possono rinnovare l'iscrizione esclusivamente come membri attivi con diritto di voto.
+
+8. Il comitato direttivo può autorizzare la partecipazione alle attività di persone non socie a titolo di ospiti occasionali o ospiti speciali, secondo le modalità stabilite dal regolamento interno.
 
 ### Art. 4 - Diritti e doveri dei membri
 
@@ -137,20 +139,22 @@ Jorge Terranova
 
 2. La quota associativa annuale è fissata a CHF 230.- e deve essere versata entro il mese di ottobre di ogni anno.
 
-3. Iscrizioni a stagione iniziata: i membri che si iscrivono dopo l'inizio della stagione sportiva versano una quota proporzionale calcolata sui mesi rimanenti fino al 31 agosto, secondo la tabella sottostante. L'ammissione non è consentita dopo il 31 marzo.
+3. Iscrizioni a stagione iniziata: i membri che si iscrivono dopo l'inizio della stagione sportiva versano una quota proporzionale calcolata sui mesi di attività regolare (settembre - giugno), secondo la tabella sottostante. L'ammissione non è consentita dopo il 30 aprile.
 
-   | Mese di iscrizione | Mesi rimanenti | Quota proporzionale |
-   |-------------------|----------------|---------------------|
-   | Settembre         | 12             | CHF 230.-          |
-   | Ottobre           | 11             | CHF 211.-          |
-   | Novembre          | 10             | CHF 192.-          |
-   | Dicembre          | 9              | CHF 173.-          |
-   | Gennaio           | 8              | CHF 153.-          |
-   | Febbraio          | 7              | CHF 134.-          |
-   | Marzo             | 6              | CHF 115.-          |
-   | Aprile            | 5              | CHF 96.-           |
+   | Periodo di iscrizione | Quota proporzionale |
+   |-----------------------|---------------------|
+   | Settembre - Ottobre   | CHF 230.-           |
+   | Novembre - Dicembre   | CHF 190.-           |
+   | Gennaio - Febbraio    | CHF 150.-           |
+   | Marzo - Aprile        | CHF 110.-           |
 
-4. Partecipanti occasionali: persone non socie possono partecipare gratuitamente alle attività su invito di un membro attivo, alle seguenti condizioni:
+4. Soci in prova: i nuovi membri possono essere ammessi come "soci in prova" per la prima stagione sportiva. I soci in prova:
+   - Versano la stessa quota associativa dei membri attivi (intera o proporzionale)
+   - Hanno diritto di partecipare a tutte le attività dell'Associazione
+   - Non hanno diritto di voto in assemblea generale
+   - Dal secondo anno devono rinnovare l'iscrizione come membri attivi con diritto di voto
+
+5. Partecipanti occasionali: persone non socie possono partecipare gratuitamente alle attività su invito di un membro attivo, alle seguenti condizioni:
    - Massimo 3 partecipazioni gratuite per stagione sportiva come "ospite in prova"
    - Il membro invitante si fa garante del comportamento dell'ospite
    - Sottoscrizione di una liberatoria di responsabilità
@@ -159,14 +163,14 @@ Jorge Terranova
    - Dopo 3 partecipazioni, l'ospite deve decidere se iscriversi come membro attivo o cessare la partecipazione
    - Esclusione da eventuali eventi ufficiali o competitivi dell'Associazione
 
-5. Ospiti speciali: il comitato direttivo può invitare senza limiti di partecipazione:
+6. Ospiti speciali: il comitato direttivo può invitare senza limiti di partecipazione:
    - Istruttori o giocatori esperti per sessioni formative
    - Sostituti occasionali per garantire il numero minimo di partecipanti alle attività
    - Altri ospiti per esigenze organizzative dell'Associazione
 
    Tali partecipazioni sono gratuite e non richiedono successiva iscrizione. Resta obbligatoria la liberatoria di responsabilità e il possesso di copertura assicurativa personale.
 
-6. La quota può essere modificata dall'assemblea generale su proposta del comitato direttivo.
+7. La quota può essere modificata dall'assemblea generale su proposta del comitato direttivo. In particolare, qualora il numero di membri attivi scenda al di sotto di 10, il comitato direttivo può proporre un adeguamento della quota per garantire la sostenibilità economica dell'Associazione.
 
 ### Art. 2 - Orari e luogo di allenamento
 
