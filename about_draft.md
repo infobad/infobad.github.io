@@ -147,7 +147,7 @@ Jorge Terranova
    | Novembre - Dicembre   | CHF 190.-           |
    | Gennaio - Febbraio    | CHF 150.-           |
    | Marzo - Aprile        | CHF 110.-           |
-&nbsp;
+ 
 4. Soci in prova: i nuovi membri possono essere ammessi come "soci in prova" per la prima stagione sportiva. I soci in prova:
    - Versano la stessa quota associativa dei membri attivi (intera o proporzionale)
    - Hanno diritto di partecipare a tutte le attività dell'Associazione
