@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Su di noi
-permalink: /about/
+permalink: /about-v10/
 ---
 
 # In breve

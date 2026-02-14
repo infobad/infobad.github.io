@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Su di noi
-permalink: /about-draft/
+permalink: /about/
 ---
 
 # In breve
