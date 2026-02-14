@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Su di noi (bozza)
+title: Su di noi
 permalink: /about-draft/
 ---
 
