@@ -5,9 +5,7 @@ date:   2026-02-14 11:11:00
 categories: blog update
 ---
 
-# Modifiche allo statuto e al regolamento interno
-
-## Natura delle modifiche
+# Natura delle modifiche
 
 Le modifiche proposte allo statuto e al regolamento interno rappresentano un aggiornamento di tipo **minore** (versione 1.1.0), che introduce nuove funzionalità e maggiore flessibilità operativa senza modificare l'impianto fondamentale dell'associazione.
 
@@ -17,11 +15,11 @@ Le novità introdotte riguardano principalmente l'**ampliamento delle modalità 
 
 Un aspetto importante è che le modifiche risultano **pienamente retrocompatibili**: chi è già membro dell'associazione continua ad operare esattamente come prima, senza necessità di adeguamenti o nuove procedure. Le nuove disposizioni si applicano principalmente ai nuovi ingressi e alle situazioni particolari che prima non erano regolamentate, introducendo chiarezza dove esistevano zone grigie.
 
-## Sommario dettagliato delle modifiche
+# Sommario dettagliato delle modifiche
 
-### Modifiche allo Statuto
+## Modifiche allo Statuto
 
-#### Art. 3 - Membri
+### Art. 3 - Membri
 
 **Nuove categorie di partecipanti**
 
@@ -40,9 +38,9 @@ Un aspetto importante è che le modifiche risultano **pienamente retrocompatibil
 - Il comitato direttivo può autorizzare la partecipazione di persone non socie come "ospiti occasionali" o "ospiti speciali"
 - Le modalità operative sono definite nel regolamento interno
 
-### Modifiche al Regolamento Interno
+## Modifiche al Regolamento Interno
 
-#### Art. 1 - Quote associative (articolo più modificato)
+### Art. 1 - Quote associative (articolo più modificato)
 
 **Definizione della stagione sportiva**
 
@@ -92,7 +90,7 @@ Note:
 - Lo scopo è garantire la sostenibilità economica dell'associazione
 - La modifica deve comunque essere approvata dall'assemblea generale
 
-## In sintesi
+# In sintesi
 
 Le modifiche rendono l'associazione più **flessibile e aperta**, permettendo:
 
