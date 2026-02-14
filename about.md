@@ -172,6 +172,20 @@ Jorge Terranova
 
 7. La quota può essere modificata dall'assemblea generale su proposta del comitato direttivo. In particolare, qualora il numero di membri attivi scenda al di sotto di 10, il comitato direttivo può proporre un adeguamento della quota per garantire la sostenibilità economica dell'Associazione.
 
+### Art. 1-bis - Procedure di iscrizione e rinnovo
+
+1. I nuovi membri devono compilare il modulo d'iscrizione e la liberatoria di responsabilità.
+
+2. L'ammissione è subordinata alla sessione di prova e all'approvazione del comitato direttivo.
+
+3. I membri attivi e i soci in prova che rinnovano l'iscrizione per la stagione successiva devono compilare il modulo di rinnovo annuale entro il mese di ottobre.
+
+4. Il mancato invio del modulo di rinnovo e/o il mancato pagamento della quota entro il termine previsto comportano la decadenza automatica dall'iscrizione.
+
+5. Gli ospiti occasionali devono compilare la liberatoria di responsabilità prima di ogni partecipazione.
+
+6. Gli ospiti speciali devono compilare la liberatoria di responsabilità alla prima partecipazione.
+
 ### Art. 2 - Orari e luogo di allenamento
 
 1. Le attività si svolgono presso la palestra scolastica di Muzzano.
