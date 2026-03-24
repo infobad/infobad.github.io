@@ -17,17 +17,17 @@ Non abbiamo istruttori professionisti, quindi non possiamo accettare principiant
 Le nostre attività e i nostri eventi sono pubblicati sul gruppo Mobilizon dell'associazione:
 👉 [mobilizon.it/@badmintonmotus](https://mobilizon.it/@badmintonmotus)
 
-## Cos'è Mobilizon?
+**Cos'è Mobilizon?**
 
 Mobilizon è una piattaforma libera e open source per la gestione di gruppi ed eventi, pensata come alternativa etica a strumenti come Facebook Gruppi/Eventi o Meetup. Non è un servizio centralizzato: è una rete di istanze indipendenti, interconnesse tra loro, senza pubblicità e senza algoritmi che tracciano i tuoi dati.
 
-## Come seguire il gruppo
+**Come seguire il gruppo**
 
 Per consultare gli eventi pubblici non è necessario alcun account. Per seguire il gruppo e ricevere aggiornamenti, si può creare un profilo gratuito su un'istanza Mobilizon (ad esempio [mobilizon.it](https://mobilizon.it)) e cercare il gruppo `badmintonmotus@mobilizon.it`.
 
 Grazie al protocollo aperto **ActivityPub**, il gruppo può essere seguito anche da **Mastodon** e da altre piattaforme del Fediverso: è sufficiente cercare `badmintonmotus@mobilizon.it` dalla propria istanza Mastodon e seguire il profilo come si farebbe con qualsiasi altro account.
 
-## Cos'è Mastodon?
+**Cos'è Mastodon?**
 
 Mastodon è un social network decentralizzato e open source, simile a X/Twitter ma senza un gestore centrale. È composto da migliaia di istanze indipendenti, ognuna con le proprie regole, tutte interconnesse tramite ActivityPub. Per iniziare, basta scegliere un'istanza su [joinmastodon.org](https://joinmastodon.org) e creare un account gratuito.
 
