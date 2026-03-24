@@ -14,7 +14,7 @@ Non abbiamo istruttori professionisti, quindi non possiamo accettare principiant
 
 # Seguici su Mobilizon
 
-Le nostre attività e i nostri eventi sono pubblicati sul gruppo Mobilizon dell'associazione:
+Le nostre attività e i nostri eventi sono pubblicati sul gruppo Mobilizon dell'associazione:<br>
 👉 [mobilizon.it/@badmintonmotus](https://mobilizon.it/@badmintonmotus)
 
 **Cos'è Mobilizon?**
