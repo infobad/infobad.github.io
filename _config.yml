@@ -19,7 +19,6 @@ future: true
 theme: minima
 header_pages:
   - about.md
-  - agenda.md
   - regulations.md
   - clubs.md
   - impressum.md
