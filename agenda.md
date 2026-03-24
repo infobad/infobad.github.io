@@ -4,8 +4,106 @@ title: Agenda
 permalink: /agenda/
 ---
 
-<!--
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FZurich&amp;src=bWZrdnB1MGJza3JlamE0cTZpaWJvc242NjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D50000&amp;showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;showTz=0" style="border:solid 1px #777" width="600" height="600" frameborder="0" scrolling="no"></iframe>
--->
+<h1>Agenda</h1>
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FZurich&bgcolor=%23e6e33c&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=MONTH&title=Programma%20degli%20allenamenti&showTitle=0&src=bWZrdnB1MGJza3JlamE0cTZpaWJvc242NjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<p>
+  Gli eventi del gruppo sono pubblicati su
+  <a href="https://mobilizon.it/@badmintonmotus" target="_blank">Mobilizon</a>.
+  Di seguito gli eventi pubblici in programma.
+</p>
+
+<div id="eventi-lista"><em>Caricamento eventi in corso…</em></div>
+
+<script>
+  const MOBILIZON_URL = "https://mobilizon.it/api";
+  const GROUP_NAME    = "badmintonmotus";
+
+  const QUERY = `
+    query FetchGroupEvents($name: String!, $afterDateTime: DateTime) {
+      group(preferredUsername: $name) {
+        organizedEvents(afterDatetime: $afterDateTime) {
+          elements {
+            title
+            beginsOn
+            endsOn
+            description
+            url
+            physicalAddress {
+              description
+              street
+              locality
+            }
+          }
+        }
+      }
+    }
+  `;
+
+  function formatDate(iso) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    return d.toLocaleString("it-IT", {
+      weekday: "long",
+      year:    "numeric",
+      month:   "long",
+      day:     "numeric",
+      hour:    "2-digit",
+      minute:  "2-digit"
+    });
+  }
+
+  function renderAddress(addr) {
+    if (!addr) return "";
+    const parts = [addr.description, addr.street, addr.locality]
+      .filter(Boolean)
+      .join(", ");
+    return parts ? `<p><strong>Luogo:</strong> ${parts}</p>` : "";
+  }
+
+  function stripHtml(html) {
+    const tmp = document.createElement("div");
+    tmp.innerHTML = html || "";
+    return tmp.textContent || tmp.innerText || "";
+  }
+
+  async function loadEvents() {
+    const container = document.getElementById("eventi-lista");
+    try {
+      const response = await fetch(MOBILIZON_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          query: QUERY,
+          variables: {
+            name: GROUP_NAME,
+            afterDateTime: new Date().toISOString()
+          }
+        })
+      });
+
+      const json     = await response.json();
+      const elements = json?.data?.group?.organizedEvents?.elements ?? [];
+
+      if (elements.length === 0) {
+        container.innerHTML = "<p>Nessun evento in programma al momento.</p>";
+        return;
+      }
+
+      container.innerHTML = elements.map(ev => `
+        <div style="margin-bottom: 2rem; border-bottom: 1px solid #ccc; padding-bottom: 1rem;">
+          <h2><a href="${ev.url}" target="_blank">${ev.title}</a></h2>
+          <p><strong>Inizio:</strong> ${formatDate(ev.beginsOn)}</p>
+          ${ev.endsOn ? `<p><strong>Fine:</strong> ${formatDate(ev.endsOn)}</p>` : ""}
+          ${renderAddress(ev.physicalAddress)}
+          ${ev.description ? `<p>${stripHtml(ev.description)}</p>` : ""}
+        </div>
+      `).join("");
+
+    } catch (err) {
+      container.innerHTML = "<p>Impossibile caricare gli eventi. Riprova più tardi.</p>";
+      console.error(err);
+    }
+  }
+
+  loadEvents();
+</script>
