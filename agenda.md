@@ -4,8 +4,6 @@ title: Agenda
 permalink: /agenda/
 ---
 
-<h1>Agenda</h1>
-
 <p>
   Gli eventi del gruppo sono pubblicati su
   <a href="https://mobilizon.it/@badmintonmotus" target="_blank">Mobilizon</a>.
