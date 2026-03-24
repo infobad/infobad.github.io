@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Agenda
-permalink: /agenda/
+permalink: /agenda-v10/
 ---
 
 <!--
