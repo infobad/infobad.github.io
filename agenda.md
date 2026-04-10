@@ -7,7 +7,7 @@ permalink: /agenda/
 <p>
   Gli eventi del gruppo sono pubblicati su
   <a href="https://mobilizon.it/@badmintonmotus" target="_blank">Mobilizon</a>.
-  Di seguito gli eventi pubblici in programma.
+  Di seguito gli eventi visibili pubblicamente in programma.
 </p>
 
 <div id="eventi-lista"><em>Caricamento eventi in corso…</em></div>
