@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Cena associativa e assemblea generale 2025-2026"
+date:   2026-05-23 21:38:00
+categories: blog update
+---
+Cari membri,
+
+siete invitati alla cena associativa dell'Associazione Badminton Motus, che sarà anche l'occasione per tenere la nostra prima assemblea generale.
+
+**Ordine del giorno**
+
+1. Apertura e nomina degli organi di seduta
+
+2. Approvazione dell'ordine del giorno
+
+3. Approvazione del verbale precedente
+
+4. Situazione finanziaria e discarico al comitato
+
+5. Andamento della stagione
+
+6. Conferma del comitato per la stagione 2026-2027
+
+7. Punti aperti e discussione
+
+8. Varie ed eventuali
+
+9. Chiusura
+
+I documenti dell'assemblea:
+
+* [Verbale assemblea 2025-2026]({{ site.url }}/assets/abm_assemblea_2025-2026_verbale.pdf)
+
+* [Verbale assemblea costitutiva]({{ site.url }}/assets/abm_verbale_20250701_v10.pdf)
+
+* [Giornale]({{ site.url }}/assets/abm_assemblea_2025-2026_giornale.pdf)
+
+* [Presenze]({{ site.url }}/assets/abm_assemblea_2025-2026_attivita.pdf)
+
+La cena avrà luogo venerdì 29 maggio 2026 presso la casa d'abitazione di Jorge a Gorduno. Parcheggi sono disponibili nei dintorni. Ulteriori dettagli saranno forniti agli interessati.
+
+A presto! 🏸
