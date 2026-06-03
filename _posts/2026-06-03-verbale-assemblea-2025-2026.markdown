@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Verbale dell'assemblea generale 2025-2026"
+date:   2026-06-03 22:08:00
+categories: blog update
+---
+Cari membri,
+
+In allegato trovate il verbale della nostra prima assemblea generale del 29 maggio 2026.
+
+* [Verbale assemblea 2025-2026]({{ site.url }}/assets/20260529_abm_verbale_assemblea_2025-2026.pdf)
+
+A presto! 🏸

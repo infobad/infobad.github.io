@@ -30,7 +30,7 @@ siete invitati alla cena associativa dell'Associazione Badminton Motus, che sar√
 
 I documenti dell'assemblea:
 
-* [Verbale assemblea 2025-2026]({{ site.url }}/assets/abm_assemblea_2025-2026_verbale.pdf)
+* [Ordine del giorno assemblea 2025-2026]({{ site.url }}/assets/abm_assemblea_2025-2026_odg.pdf)
 
 * [Verbale assemblea costitutiva]({{ site.url }}/assets/abm_verbale_20250701_v10.pdf)
 
