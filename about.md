@@ -37,6 +37,7 @@ Mastodon è un social network decentralizzato e open source, simile a X/Twitter 
 [2]: <{{ site.url }}/assets/abm_statuto_20260201_v11.pdf> "Statuto"
 [3]: <{{ site.url }}/assets/abm_regolamento_interno_20260201_v11.pdf> "Regolamento interno"
 [4]: <{{ site.url }}/assets/abm_verbale_20250701_v10.pdf> "Verbale dell'assemblea costitutiva dell'Associazione Badminton Motus"
+[5]: <{{ site.url }}/assets/20260529_abm_verbale_assemblea_2025-2026.pdf> "Verbale dell'assemblea generale 2025-2026"
 
 ## [Atto costitutivo][1]
 
@@ -263,3 +264,7 @@ Flavio Crivelli
 Firma segretario:
 
 Jorge Terranova
+
+### Assemblea generale
+
+- [Verbale dell'assemblea generale 2025-2026][5]
