@@ -6,7 +6,7 @@ permalink: /about/
 
 # In breve
 
-L'Associazione Badminton Motus promuove il badminton come forma di benessere attivo, unendo movimento, socialità e divertimento. Siamo un gruppo di appassionati di livello intermedio-avanzato (18+). Non abbiamo particolari ambizioni e non prendiamo parte a gare e competizioni.
+L'Associazione Badminton Motus promuove il badminton come forma di benessere attivo, unendo movimento, socialità e divertimento. Siamo un gruppo di appassionati di livello intermedio-avanzato (18+). Non abbiamo particolari ambizioni e non prendiamo parte a gare e competizioni. Siamo attivi dal luglio 2025.
 
 # Diventare membri
 
