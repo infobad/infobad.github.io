@@ -6,10 +6,13 @@ layout: default
 
   <h1 class="page-heading">Posts</h1>
 
+  {% assign mesi = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," %}
+
   <ul class="post-list">
     {% for post in site.posts %}
+      {% assign mese_index = post.date | date: "%-m" | minus: 1 %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%-d" }} {{ mesi[mese_index] }} {{ post.date | date: "%Y" }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
