@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La storia di Badminton Motus
+title: Storia
 permalink: /history/
 ---
 
@@ -68,7 +68,7 @@ Ogni stagione rappresenta un piccolo capitolo della nostra storia. Le fotografie
      src="/assets/images/history/2025-2026.jpg"
      alt="Badminton Motus – Squadra 2025-2026">
 
-*Il primo gruppo di Badminton Motus nella palestra di Muzzano. In prima file, da sinistra: Jorge Terranova, Fulvio Gervasoni, Antonio Hurle. In seconda fila, da sinistra: Cristina Chegai, Michelle Lombardi, Reto Wismer, Ignacio Ramos, Flavio Crivelli. Non in immagine: Enzo Fontana, Enzo Scapolo.*
+*Il primo gruppo di Badminton Motus nella palestra di Muzzano. In prima file, da sinistra: Jorge Terranova, Fulvio Gervasoni, Antonio Hurle. In seconda fila, da sinistra: Cristina Chegai, Michelle Lombardi, Reto Wismer, Ignacio Ramos, Flavio Crivelli. Non in immagine: Enzo Fontana, Enzo Scapolo, Matteo Huber.*
 
 <!-- Aggiungere qui una sezione per ogni nuova stagione:
 ### Stagione 2026-2027
